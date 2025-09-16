@@ -1,11 +1,9 @@
 ---
 title: "Blog"
 ---
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/saadalmalki711/)
-[![X](https://skillicons.dev/icons?i=twitter)](https://www.x.com/0xdonzdev)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/creator_sai711)
-
+## هنا التدوينات الظاهرة في المدونة
 ---
 
-### Here posts (Coming soon)
+### posts
+
+1. [أهمية بحوث العمليات](blog/post1.qmd)
