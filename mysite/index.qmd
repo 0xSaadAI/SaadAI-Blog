@@ -1,51 +1,13 @@
 ---
-title: "Welcome"
+title: "Home Page"
 ---
 
 ## Header
-This website built by quarto and r language.
+أهلاً بك في مدونتي الخاصة بعالم الذكاء الإصطناعي وتعلم الآلة .
+
 ```{r}
-print("Hello in my r site")
+print("Hello in my blog")
 ```
 
-### site
-this site is just test for building a site with r language , R language is just famous for statistics and data science .
-
-![img](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png)
-
-
-## مشاريعي / My Projects
-- [LibraryDB](https://librarydb.netlify.app)
-- [Saad Browser](https://github.com/Saad711T/SaadBrowser)
-- [Volx App](https://blockelteam.itch.io/volx-library)
-- [SaadOS](https://github.com/Saad711T/SaadOS)
-- [My official website](https://saadthelegend.netlify.app)
-- [Discord random cars bot](https://github.com/Saad711T/randomcars)
-- [Arabian peninsula maps](https://saadthelegend1.itch.io/arabianpeninsulamaps)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### END
-:)
+## Credits
+- [0xSaad](https://x.com/0xdonzdev)
