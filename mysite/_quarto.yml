@@ -6,9 +6,9 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: main
-      - href: about.qmd
-        text: more
+        text: Home
+      - href: blog.qmd
+        text: Blog
 format:
   html:
     theme: cosmo
