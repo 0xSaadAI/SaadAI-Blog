@@ -1,0 +1,15 @@
+project:
+  type: website
+  output-dir: _site
+website:
+  title: "SaadAI Blog"
+  navbar:
+    left:
+      - href: index.qmd
+        text: main
+      - href: about.qmd
+        text: more
+format:
+  html:
+    theme: cosmo
+    css: styles.css
