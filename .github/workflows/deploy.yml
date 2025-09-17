@@ -17,11 +17,6 @@ jobs:
       - name: System deps (for R packages that need it)
         run: sudo apt-get update && sudo apt-get install -y libcurl4-openssl-dev libssl-dev libxml2-dev
 
-      # الحد الأدنى لـ .Rmd فقط
-      - name: Install minimal R packages
-        run: |
-          Rscript -e 'install.packages(c("knitr","rmarkdown"), repos="https://cloud.r-project.org")'
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
