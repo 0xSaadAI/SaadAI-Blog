@@ -11,5 +11,7 @@ website:
         text: Blog
 format:
   html:
+    lang: ar
+    dir: rtl
     theme: cosmo
     css: styles.css
