@@ -46,8 +46,21 @@ title: "Blog"
 
 <hr>
 
+4. [الأنظمة الخبيرة](blog/post4.qmd)
 
-4. [أهمية بحوث العمليات](blog/post9.qmd)
+<br>
+
+النظام الخبير هو نظام يندرج تحت تصنيف تطبيقات الذكاء الإصطناعي , وهو نظام يحاكي خبرة البشر وقدراتهم في إتخاذ القرار
+[..إكمال القراءة](blog/post4.qmd)
+
+<br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Symbolics3640_Modified.JPG" width="300px" alt="image" />
+
+<hr>
+
+
+5. [أهمية بحوث العمليات](blog/post9.qmd)
 
 <br>
 
@@ -56,7 +69,7 @@ title: "Blog"
 
 <hr>
 
-5. [لمحة عن قواعد البيانات](blog/post26.qmd)
+6. [لمحة عن قواعد البيانات](blog/post26.qmd)
 
 <br>
 
