@@ -35,7 +35,7 @@ title: "الأتمتة والذكاء الاصطناعي"
 import os
 
 # Path of files
-folder = "files"
+folder = "test"
 
 count = 1
 
