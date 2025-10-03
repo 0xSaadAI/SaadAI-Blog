@@ -66,12 +66,12 @@ title: "Blog"
 الأتمتة أو التشغيل الآلي معربة ومأخوذة من مصطلح تشغيل أوتوماتيكي , وهي عملية شائعة لتحويل أداء المهام الروتينية من الشكل اليدوي إلى الشكل الأوتوماتيكي أو الإلكتروني .
 [..إكمال القراءة](blog/post5.qmd)
 
-<hr>
 
 <br>
 
-<img src="../blog/images/robotics.png" width="300px" alt="image" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/RobotMintCanb.jpg" width="300px" alt="image" />
 
+<hr>
 
 
 6. [أهمية بحوث العمليات](blog/post9.qmd)
