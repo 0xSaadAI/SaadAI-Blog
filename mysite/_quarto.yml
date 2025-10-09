@@ -15,4 +15,3 @@ format:
     dir: rtl
     theme: cosmo
     css: styles.css
-    include-after-body: script.js
