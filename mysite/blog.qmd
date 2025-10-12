@@ -87,10 +87,22 @@ title: "Blog"
 
 <hr>
 
+7. [مقدمة في تعلم الآلة](blog/post7.qmd)
+
+<br>
+
+تعلم الآلة هي التقنية الأشهر والرئيسية لتعليم الذكاء الإصطناعي , بل أنه التعلم العميق يعد جزئاً منها .
+[..إكمال القراءة](blog/post7.qmd)
 
 
+<br>
 
-7. [البيانات - المعلومات - المعرفة والحكمة](blog/post8.5.qmd)
+<img src="../blog/images/regression-vs-classification.png" width="300px" alt="image" />
+
+<hr>
+
+
+8. [البيانات - المعلومات - المعرفة والحكمة](blog/post8.5.qmd)
 
 <br>
 
@@ -105,7 +117,7 @@ title: "Blog"
 <hr>
 
 
-8. [أهمية بحوث العمليات](blog/post9.qmd)
+9. [أهمية بحوث العمليات](blog/post9.qmd)
 
 <br>
 
@@ -114,7 +126,7 @@ title: "Blog"
 
 <hr>
 
-9. [لمحة عن قواعد البيانات](blog/post26.qmd)
+10. [لمحة عن قواعد البيانات](blog/post26.qmd)
 
 <br>
 
