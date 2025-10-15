@@ -26,6 +26,6 @@ title: "مقدمة في تحليل البيانات"
 ![محلل البيانات من المفترض أن يستنتج المعلومات ويحللها ويفهمها من بيانات على شكل صفوف وأعمدة حتى في حياته المهنية .](images/dbtable.png)
 
 ## مصادر ومراجع :
-- [ويكيبيديا - تحليل بيانات](https://ar.wikipedia.org/wiki/%D8%AA%D8%AD)
+- [ويكيبيديا - تحليل بيانات](https://ar.wikipedia.org/wiki/%D8%AA%D8%AD%D9%84%D9%8A%D9%84_%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA)
 - Data Science Programming Book - For Dummies
-- [AWS - ماهي تحليلات البيانات ؟](https://aws.amazon.com/ar/what-is/data-analytics/)
+- [AWS -  ما المقصود بتحليلات البيانات ؟](https://aws.amazon.com/ar/what-is/data-analytics/)
