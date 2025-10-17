@@ -29,7 +29,7 @@ title: "بحوث : برمجة خطية"
 
 ![معادلة خطية مع ثلاثة قيود فقط](images/graphicalquestion.png)
 
-وهنا نحلل القيد الأول والثاني , بينما نهمل الثالث الذي فقط يؤكد على أن تكون القيم فوق .
+وهنا نحلل القيد الأول والثاني , بينما نهمل الثالث الذي فقط يؤكد على أن تكون القيم فوق صفر.
 
 <br>
 
@@ -72,6 +72,6 @@ title: "بحوث : برمجة خطية"
 - [Wael M Yousef - حل السمبلكس خطوة بخطوة](https://youtu.be/rq4SkAYwIdQ?si=ud1MqLhC0XipG0LK)
 - [د.أنور جعفر محمد جواد - الطريقة البيانية](https://youtu.be/B1d0ocT6vDs?si=AgeE1k4Ry9lNjlpd)
 - [Geeks for Geeks - Linear Programming](https://www.geeksforgeeks.org/maths/linear-programming/)
-- [Purplemath - What's is math ?](https://www.purplemath.com/modules/linprog.htm)
+- [Purplemath - What's is linear programming?](https://www.purplemath.com/modules/linprog.htm)
 - [University of Kentucky - LP](https://www.uky.edu/~dsianita/300/online/LP.pdf)
 - Operations Research: An Introduction - Hamdy A Taha.

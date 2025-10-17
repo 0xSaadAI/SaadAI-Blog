@@ -9,6 +9,10 @@ website:
         text: Home
       - href: blog.qmd
         text: Blog
+      - href: intro.qmd
+        text: النظريات والأساسيات
+      - href: math.qmd
+        text: Mathematics
 format:
   html:
     lang: ar
