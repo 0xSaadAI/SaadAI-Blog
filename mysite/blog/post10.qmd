@@ -1,0 +1,77 @@
+---
+title: "بحوث : برمجة خطية"
+---
+
+# مقدمة
+البرمجة الخطية (Linear Programming)
+هي أسلوب أساسي في بحوث العمليات للمساعدة في اتخاذ القرار وتحديد الحل الأمثل
+
+<br>
+
+`Optimal Solution`
+
+## الفائدة
+كما ذكرنا سابقاً في المقال السابق
+
+[أهمية بحوث العمليات](post9.qmd)
+
+أن بحوث العمليات مهمة جداً وخصوصاً البرمجة الخطية , والدليل على ذلك بريطانيا في الحرب العالمية الثانية حينما كلفت الرياضيين والاحصائيين عن آلية وكيفية توزيع الموارد العسكرية بشكل مكافئ .
+
+وتعد أشهر طريقتين في البرمجة الخطية كالآتي :
+
+- الرسم البياني/Graphical
+
+- الطريقة الجدولية/Simplex
+
+### Graphical LP
+
+غالباً لايتم إستخدام الطريقة البيانية إلا إذا كان لديك معادلة وعدد بسيط من القيود وهذا هو :
+
+![معادلة خطية مع ثلاثة قيود فقط](images/graphicalquestion.png)
+
+وهنا نحلل القيد الأول والثاني , بينما نهمل الثالث الذي فقط يؤكد على أن تكون القيم فوق .
+
+<br>
+
+في حالة الMaximum.
+القيد الثالث كل القيم فوق 0
+
+بينما في حالة الMinimum
+القيد الثالث كل القيم أصغر من 0
+
+![طريقة تحديد النقاط من القيود](images/graphical1.png)
+
+بعد تحديد النقاط نرسمها على الرسم البياني ثم نحدد هل (0,0) جزء من الحل نقوم بالتعويض في المعادلة الأصلية
+وفي المعادلة أسفل أتضح أن 0 حققت نتيجة المعادلة ف بالتالي هي جزء من معادلة الحل فنحدد منطقة الحل
+
+![الرسم البياني وتحديد منطقة الحل](images/graphical2.png)
+
+ولاحقاً نختار نقاط الزوايا ونضعها في جدول
+وبعد التحديد نعوض في المعادلة الأصلية لإيجاد الحل الأمثل.
+
+وقد تكون هناك نقطة تقاطع بين خطين , وهنا نقوم بطريقة الحذف والتعويض بين المعادلتين لكي نجد النقطة التي تكون نقطة التقاء بين الخطين
+
+![](images/graphical3.png)
+
+<br>
+
+![](images/graphical3.5.png)
+
+<br>
+
+![هنا وجدنا الحل الأمثل](images/optimalsolution.png)
+
+
+### Simplex LP
+سيطول شرحنا لها في المقال فلذلك أنصح بمشاهدة مقطع الفيديو هذا :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rq4SkAYwIdQ?si=evkEozPj9gi_nQcH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## مصادر ومراجع :
+- [ويكيبيديا - برمجة خطية](https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9_%D8%AE%D8%B7%D9%8A%D8%A9)
+- [Wael M Yousef - حل السمبلكس خطوة بخطوة](https://youtu.be/rq4SkAYwIdQ?si=ud1MqLhC0XipG0LK)
+- [د.أنور جعفر محمد جواد - الطريقة البيانية](https://youtu.be/B1d0ocT6vDs?si=AgeE1k4Ry9lNjlpd)
+- [Geeks for Geeks - Linear Programming](https://www.geeksforgeeks.org/maths/linear-programming/)
+- [Purplemath - What's is math ?](https://www.purplemath.com/modules/linprog.htm)
+- [University of Kentucky - LP](https://www.uky.edu/~dsianita/300/online/LP.pdf)
+- Operations Research: An Introduction - Hamdy A Taha.
