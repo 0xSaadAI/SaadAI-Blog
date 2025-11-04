@@ -1,0 +1,71 @@
+---
+title: "بحوث : مشاكل النقل"
+---
+
+في بحوث العمليات , يوجد هناك مشاكل للنقل وهناك 3 طرق أساسية لإيجاد القيمة الإجمالية :
+
+1. طريقة الشمال الغربي - NW Corner
+نبدأ من الركن العلوي في اليسار ونحل بقية الجدول
+
+2. طريقة القيمة الأقل - Least cost method
+
+3. طريقة فوجل - Vogel (VAM)
+
+وهناك طريقتين رئيسيتين لإيجاد القيمة المثلى :
+
+1. طريقة حجارة المشي - Stepping stone
+
+2. طريقة التوزيع المعدلة - MODI
+
+## مثال على الشمال الغربي
+نبدأ في الشمال الغربي بالمربع العلوي في اليسار , نعطيها أقل قيمة في الصف والعمود
+
+نرى مقارنة بين الآتي :
+
+- Supply
+
+- Demand
+
+نكتبها مكان الخانة ونحذف صف أو عمود بناء على النتيجة ثم ننتقل للقيمة المجاورة
+حتى ينتهي الحل ونقوم بجمع كل المربعات بالاضافة لضربها للمربعات الداخلية بالشكل الآتي وهنا تم إيجاد القيمة الإجمالية.
+
+![طريقة الشمال الغربي](images/nw.png)
+
+## مثال على أقل قيمة
+
+في طريقة الأقل قيمة , نبدأ من القيمة ذات الأقل في المربعات الصغيرة وليس من الشمال الغربي .
+
+ثم يليها الأكبر منها في المربعات الصغيرة ونحذف صف وعمود حتى تتجمع لدينا معادلة حل القيمة الإجمالية :
+
+![طريقة القيمة الأقل](images/leastcost.png)
+
+## مثال على فوجل
+في طريقة فوجل نقوم بعمل فارق بين كلاً من :
+
+- Supply
+
+- Demand
+
+مع حذف الصفوف والأعمدة وكتابة القيمة الإجمالية .
+
+![طريقة فوجل](images/vam.png)
+
+## الحل الأمثل
+
+#### Stepping Stone
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RGKQXBL2YWo?si=_IKQ3yNgaLbFL8GE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### MODI
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r05tMndo7-8?si=7JUkVR3zUHOHQo5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## المزيد
+
+[برزنتيشن بسيط عن جداول النقل من كتابتي](https://github.com/Saad711T/math/blob/main/Operations%20Research/Transportation%20model/Transportation-Problems.pptx)
+
+## مصادر ومراجع :
+- [Professor Dansereau](https://www.youtube.com/@EdDansereau)
+- [Ahmed AlShokry - OR , Transportation problems](https://youtu.be/zdETTY9MgO4?si=2WZAZnPdlo632EBY)
+- [My Great Learning - Transportation problems](https://www.mygreatlearning.com/blog/transportation-problem-explained/)
+- Operations Management For Dummies Book

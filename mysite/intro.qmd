@@ -102,7 +102,7 @@ title: "Introduction and theories posts"
 <hr>
 
 
-9. [مقدمة في تحليل البيانات](blog/post8.qmd)
+8. [مقدمة في تحليل البيانات](blog/post8.qmd)
 
 <br>
 

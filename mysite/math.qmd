@@ -28,3 +28,16 @@ title: "Mathematical posts"
 <img src="../blog/images/graphical2.png" width="300px" alt="image" />
 
 <hr>
+
+3. [بحوث : مشاكل النقل](blog/post11.qmd)
+
+<br>
+
+في بحوث العمليات , يوجد هناك مشاكل للنقل وهناك 3 طرق أساسية لإيجاد القيمة الإجمالية :
+[..إكمال القراءة](blog/post11.qmd)
+
+<br>
+
+<img src="../blog/images/leastcost.png" width="300px" alt="image" />
+
+<hr>
