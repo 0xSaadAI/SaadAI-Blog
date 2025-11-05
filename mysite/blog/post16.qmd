@@ -1,0 +1,23 @@
+---
+title: "برمجة المصفوفات"
+---
+# مقدمة
+هذه التدوينة تمهيد بسيط لكتاب "برمجة المصفوفات"، والذي يتناول كيفية التعامل مع المصفوفات في البرمجة بلغة بايثون ومكتبة نمباي، مع تطبيقات عملية في مجال علم البيانات.
+
+
+<img src="images/matrices.png" width="300px" alt="logo" />
+
+## لقراءة الكتاب
+
+[الكتاب](https://github.com/Saad711T/Matrices-Arrays-Programming-minibook)
+
+```{python}
+print("Thx to read the book")
+```
+
+---
+
+## مصادر ومراجع :
+- [0xSaad - مقدمة في برمجة المصفوفات](https://github.com/Saad711T/Matrices-Arrays-Programming-minibook)
+- [W3Schools - NumPy](https://www.w3schools.com/python/numpy/default.asp)
+- [Geeks for geeks - NumPy](https://www.geeksforgeeks.org/numpy/python-numpy/)
