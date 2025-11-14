@@ -52,3 +52,5 @@ title: "Mathematical posts"
 <br>
 
 <img src="../blog/images/semantic-network.png" width="300px" alt="image" />
+
+<hr>
