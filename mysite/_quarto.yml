@@ -13,6 +13,8 @@ website:
         text: النظريات والأساسيات
       - href: math.qmd
         text: Mathematics
+      - href: programming.qmd
+        text: Programming
 format:
   html:
     lang: ar
