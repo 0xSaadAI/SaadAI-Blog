@@ -27,10 +27,3 @@ title: "Home Page"
         <img src="https://images.credly.com/size/680x680/images/62331d66-bbb6-4912-a986-7ef7f9d29785/image.png" width="150">
     </a>
 </p>
-
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/saadalmalki711/)
-
-[![X](https://skillicons.dev/icons?i=twitter)](https://www.x.com/0xdonzdev)
-
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/creator_sai711)
