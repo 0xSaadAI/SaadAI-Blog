@@ -52,3 +52,16 @@ title: "Mathematical posts"
 <br>
 
 <img src="../blog/images/semantic-network.png" width="300px" alt="image" />
+
+<hr>
+
+5. [ماقبل التفاضل والتكامل](blog/post16.1.qmd)
+
+<br>
+
+قبيل الغوص والإبحار في التفاضل والتكامل , هناك متطلبات أساسية لهذا الفرع الرياضي وتسمى بحد ذاتها ماقبل التفاضل والتكامل
+[..إكمال القراءة](blog/post16.1.qmd)
+
+<br>
+
+<img src="../blog/images/function.png" width="300px" alt="image" />
