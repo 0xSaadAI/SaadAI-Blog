@@ -5,7 +5,7 @@ title: "Blog"
 ---
 
 ### posts
-1. [مقدمة في الذكاء الإصطناعي](blog/post1.qmd)
+1. [مقدمة في الذكاء الاصطناعي](blog/post1.qmd)
 
 <br>
 
