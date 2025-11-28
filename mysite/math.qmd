@@ -79,3 +79,16 @@ title: "Mathematical posts"
 <br>
 
 <img src="../blog/images/function.png" width="300px" alt="image" />
+
+<hr>
+
+7. [تفاضل وتكامل : التفاضل والإشتقاق](blog/post16.2.qmd)
+
+<br>
+
+هنا الشطر الأول من التفاضل والتكامل وهو الشطر الذي يخص التفاضل وعمليته الأساسية التي تسمى الإشتقاق
+[..إكمال القراءة](blog/post16.2.qmd)
+
+<br>
+
+<img src="../blog/images/partial1.png" width="300px" alt="image" />
