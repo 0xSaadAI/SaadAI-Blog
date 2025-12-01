@@ -92,3 +92,18 @@ title: "Mathematical posts"
 <br>
 
 <img src="../blog/images/derivative1.png" width="300px" alt="image" />
+
+<hr>
+
+8. [أهمية الإحصاء](blog/post24.qmd)
+
+<br>
+
+يعد الإحصاء والإحتمالات من أهم المجالات والأمثلة في الرياضيات التطبيقية , بل أنه من أكثر فروع الرياضيات إرتباطاً بعلوم الحاسوب والذكاء الاصطناعي .
+[..إكمال القراءة](blog/post24.qmd)
+
+<br>
+
+<img src="../blog/images/sd-and-mean.png" width="300px" alt="image" />
+
+<hr>
