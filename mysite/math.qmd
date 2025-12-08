@@ -95,7 +95,21 @@ title: "Mathematical posts"
 
 <hr>
 
-8. [أهمية الإحصاء](blog/post24.qmd)
+8. [تفاضل وتكامل : التكاملات](blog/post16.3.qmd)
+
+<br>
+
+هنا الشطر الثاني من التفاضل والتكامل وهو الخاص بعملية التكامل , التكامل عكس الإشتقاق بشكل تقريبي ويعبر عن الآتي تحديداً
+[..إكمال القراءة](blog/post16.3.qmd)
+
+<br>
+
+<img src="../blog/images/integration1.png" width="300px" alt="image" />
+
+<hr>
+
+
+9. [أهمية الإحصاء](blog/post24.qmd)
 
 <br>
 
