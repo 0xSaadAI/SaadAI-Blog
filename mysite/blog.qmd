@@ -261,9 +261,12 @@ title: "Blog"
 
 <img src="../blog/images/derivative1.png" width="300px" alt="image" />
 
+
 <hr>
 
-20. [تفاضل وتكامل : التكاملات](blog/post16.3.qmd)
+
+
+20.  [تفاضل وتكامل : التكاملات](blog/post16.3.qmd)
 
 <br>
 
@@ -276,8 +279,23 @@ title: "Blog"
 
 <hr>
 
+21. [مكتبة بانداس : الجزء 1](blog/post17.qmd)
 
-21. [أهمية الإحصاء](blog/post24.qmd)
+<br>
+
+هي مكتبة من مكتبات بايثون الشهيرة والمهمة للغاية والتي سنتعرف عليها ونتعمق فيها في الجزء الثاني والثالث
+[..إكمال القراءة](blog/post17.qmd)
+
+<br>
+
+<img src="../blog/images/Pandas.png" width="300px" alt="image" />
+
+
+<hr>
+
+
+
+22. [أهمية الإحصاء](blog/post24.qmd)
 
 <br>
 
@@ -292,7 +310,7 @@ title: "Blog"
 
 
 
-22.  [لمحة عن قواعد البيانات](blog/post26.qmd)
+23.  [لمحة عن قواعد البيانات](blog/post26.qmd)
 
 <br>
 
@@ -305,7 +323,7 @@ title: "Blog"
 
 <hr>
 
-23. [لمحة عن نظام تشغيل جنو/لينكس](blog/post26.5.qmd)
+24. [لمحة عن نظام تشغيل جنو/لينكس](blog/post26.5.qmd)
 
 <br>
 

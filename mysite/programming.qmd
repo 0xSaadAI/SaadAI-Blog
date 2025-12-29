@@ -31,8 +31,23 @@ title: "Programming posts"
 
 <hr>
 
+3. [مكتبة بانداس : الجزء 1](blog/post17.qmd)
 
-3. [لمحة عن قواعد البيانات](blog/post26.qmd)
+<br>
+
+هي مكتبة من مكتبات بايثون الشهيرة والمهمة للغاية والتي سنتعرف عليها ونتعمق فيها في الجزء الثاني والثالث
+[..إكمال القراءة](blog/post17.qmd)
+
+<br>
+
+<img src="../blog/images/Pandas.png" width="300px" alt="image" />
+
+
+<hr>
+
+
+
+4. [لمحة عن قواعد البيانات](blog/post26.qmd)
 
 <br>
 
@@ -45,7 +60,7 @@ title: "Programming posts"
 
 <hr>
 
-4. [لمحة عن نظام تشغيل جنو/لينكس](blog/post26.5.qmd)
+5. [لمحة عن نظام تشغيل جنو/لينكس](blog/post26.5.qmd)
 
 <br>
 
