@@ -45,9 +45,23 @@ title: "Programming posts"
 
 <hr>
 
+4. [مكتبة بانداس : الجزء 2](blog/post18.qmd)
+
+<br>
+
+نلاحظ هنا أنه يجب علينا الإلتزام بالاسم الذي أطلقناه على المكتبة وهو :
+[..إكمال القراءة](blog/post18.qmd)
+
+<br>
+
+<img src="../blog/images/pandas-command.png" width="300px" alt="image" />
 
 
-4. [لمحة عن قواعد البيانات](blog/post26.qmd)
+<hr>
+
+
+
+5. [لمحة عن قواعد البيانات](blog/post26.qmd)
 
 <br>
 
@@ -60,7 +74,7 @@ title: "Programming posts"
 
 <hr>
 
-5. [لمحة عن نظام تشغيل جنو/لينكس](blog/post26.5.qmd)
+6. [لمحة عن نظام تشغيل جنو/لينكس](blog/post26.5.qmd)
 
 <br>
 

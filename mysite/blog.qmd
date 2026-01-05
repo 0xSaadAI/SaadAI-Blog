@@ -293,9 +293,23 @@ title: "Blog"
 
 <hr>
 
+22. [مكتبة بانداس : الجزء 2](blog/post18.qmd)
+
+<br>
+
+نلاحظ هنا أنه يجب علينا الإلتزام بالاسم الذي أطلقناه على المكتبة وهو :
+[..إكمال القراءة](blog/post18.qmd)
+
+<br>
+
+<img src="../blog/images/pandas-command.png" width="300px" alt="image" />
 
 
-22. [أهمية الإحصاء](blog/post24.qmd)
+<hr>
+
+
+
+23. [أهمية الإحصاء](blog/post24.qmd)
 
 <br>
 
@@ -310,7 +324,7 @@ title: "Blog"
 
 
 
-23.  [لمحة عن قواعد البيانات](blog/post26.qmd)
+24.  [لمحة عن قواعد البيانات](blog/post26.qmd)
 
 <br>
 
@@ -323,7 +337,7 @@ title: "Blog"
 
 <hr>
 
-24. [لمحة عن نظام تشغيل جنو/لينكس](blog/post26.5.qmd)
+25. [لمحة عن نظام تشغيل جنو/لينكس](blog/post26.5.qmd)
 
 <br>
 
