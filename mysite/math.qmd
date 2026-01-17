@@ -108,8 +108,21 @@ title: "Mathematical posts"
 
 <hr>
 
+9.  [مقدمة في الإحصاء والاحتمالات](blog/post22.qmd)
 
-9. [أهمية الإحصاء](blog/post24.qmd)
+<br>
+
+حينما يُذكر مجال الإحصاء غالباً مانذكر معه نظرية الاحتمالات , والاثنان يشكلان معاً فرعاً مهماً من فروع الرياضيات التطبيقية والتي سنشرح كل واحد منها بشكل منفصل
+[..إكمال القراءة](blog/post22.qmd)
+
+<br>
+
+<img src="../blog/images/dice.jpg" width="300px" alt="image" />
+
+<hr>
+
+
+10. [أهمية الإحصاء](blog/post24.qmd)
 
 <br>
 
@@ -119,5 +132,3 @@ title: "Mathematical posts"
 <br>
 
 <img src="../blog/images/sd-and-mean.png" width="300px" alt="image" />
-
-<hr>
