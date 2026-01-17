@@ -73,9 +73,24 @@ title: "Programming posts"
 
 <hr>
 
+6. [مكتبة ماتبلوتليب](blog/post21.qmd)
+
+<br>
+
+تعد المكتبة من أهم مكتبات تمثيل البيانات في لغة بايثون , وسنشرح في المقالة تثبيت المكتبة وإستخدامها الأبرز في تحليل وتمثيل البيانات
+[..إكمال القراءة](blog/post21.qmd)
+
+<br>
+
+<img src="../blog/images/matplotlib.png" width="300px" alt="image" />
 
 
-6. [لمحة عن قواعد البيانات](blog/post26.qmd)
+<hr>
+
+
+
+
+7. [لمحة عن قواعد البيانات](blog/post26.qmd)
 
 <br>
 
@@ -88,7 +103,7 @@ title: "Programming posts"
 
 <hr>
 
-7. [لمحة عن نظام تشغيل جنو/لينكس](blog/post26.5.qmd)
+8. [لمحة عن نظام تشغيل جنو/لينكس](blog/post26.5.qmd)
 
 <br>
 
