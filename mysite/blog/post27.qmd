@@ -29,7 +29,7 @@ title: "مكتبة سايكت ليرن : الجزء 1"
 
 - Regression / الإنحدار
 
-- Clustring / التجميع
+- Clustering / التجميع
 
 هناك العديد من المكتبات الداخلية داخل المكتبة الأم أو ماتسمى في بايثون بالـ :
 
@@ -64,7 +64,7 @@ from sklearn.metrics import accuracy_score
 
 التنبؤ بالقيم المستقبلية
 
-وأخيرا وليس اخراً :
+وأخيرا وليس آخراً :
 
 `accuracy = accuracy_score(y_test, predictions)`
 `print(accuracy)`
