@@ -1,0 +1,69 @@
+---
+title: "مكتبة سايكت ليرن : الجزء 2"
+---
+
+# مقدمة
+في الجزء الأول تعرفنا على مكتبة سايكت ليرن وأهميتها في مجال تعلم الآلة, وتعلمنا كيفية بناء نموذج بسيط للتصنيف بإستخدام خوارزمية الإنحدار اللوجستي.
+
+في هذا الجزء سنأخذ خطوة أعمق قليلاً ونتعرف على أشهر خوارزميات التصنيف والتجميع في المكتبة مع أمثلة مبسطة.
+
+[راجع الجزء الأول من شرح المكتبة](https://saadaiblog.netlify.app/blog/post27)
+
+---
+
+## خوارزميات التصنيف - Classification
+التصنيف هو أحد أهم أنواع تعلم الآلة المشرف عليه , حيث يكون لدينا بيانات معروفة النتائج ونحاول تدريب النموذج للتنبؤ بالقيم المستقبلية.
+
+من أشهر خوارزميات التصنيف في مكتبة سايكت ليرن :
+
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- Support Vector Machine (SVM)
+- K-Nearest Neighbors (KNN)
+
+#### مثال
+
+شجرة القرار أو :
+
+**Decision Tree**
+
+من الخوارزميات البسيطة والمفهومة , حيث تتخذ القرارات بناءً على شروط متفرعة.
+
+تتميز شجرة القرار بسهولتها وسهولة تفسيرها وفهمها لكن فيها عيب قاتل وهو مشكلة إفراط التعلم أو ماتسمى بالـ :
+
+**Overfitting**
+
+
+كود تصنيف :
+```{python}
+from sklearn.tree import DecisionTreeClassifier
+
+model = DecisionTreeClassifier()
+model.fit(X_train, y_train)
+
+predictions = model.predict(X_test)
+```
+
+## خوارزميات التجميع - Clustering
+التجميع هو نوع من أنواع تعلم الآلة غير الخاضع للإشراف ,حيث لانملك في التعلم نتائج سابقة وغرض التعلم نفسه هو إيجاد الهدف والتركيبة من دون إعطاء قيم افتراضية وقيمة تنبؤية واضحة للنموذج.
+
+كود تجميع :
+```{python}
+from sklearn.cluster import KMeans
+
+kmeans = KMeans(n_clusters=3, random_state=42)
+kmeans.fit(X)
+
+labels = kmeans.labels_
+```
+
+تستخدم خوارزميات التجميع كثيراً في تحليل العملاء وتقسيم المستخدمين وتحليل السلوك.
+
+في مقالة لاحقة سنتحدث عن الخوارزميات الفرعية بوضوح وبشكل كامل وبالتفصيل الممل مثل شجرة القرار والإنحدار الخطي وكذلك النوع الثالث من تعلم الآلة وهو تعلم الآلة التعزيزي الذي هو مزيج بين تعلم الآلة الخاضع للإشراف وغير الخاضع للإشراف.
+
+## مصادر ومراجع :
+- [Scikit-learn Documentation](https://scikit-learn.org/stable/)
+- [IBM – Machine Learning with Python on Coursera](https://www.coursera.org/learn/machine-learning-with-python)
+- [FreeCodeCamp - Machine Learning with Python and Scikit-Learn](https://youtu.be/hDKCxebp88A?si=oFzlQ2m9iZUNLOR5)
+- Deep Learning Book - For Dummies
