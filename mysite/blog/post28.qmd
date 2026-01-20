@@ -36,27 +36,23 @@ title: "مكتبة سايكت ليرن : الجزء 2"
 
 
 كود تصنيف :
-```{python}
-from sklearn.tree import DecisionTreeClassifier
+``from sklearn.tree import DecisionTreeClassifier``
 
-model = DecisionTreeClassifier()
-model.fit(X_train, y_train)
+``model = DecisionTreeClassifier()``
+``model.fit(X_train, y_train)``
 
-predictions = model.predict(X_test)
-```
+``predictions = model.predict(X_test)``
 
 ## خوارزميات التجميع - Clustering
 التجميع هو نوع من أنواع تعلم الآلة غير الخاضع للإشراف ,حيث لانملك في التعلم نتائج سابقة وغرض التعلم نفسه هو إيجاد الهدف والتركيبة من دون إعطاء قيم افتراضية وقيمة تنبؤية واضحة للنموذج.
 
 كود تجميع :
-```{python}
-from sklearn.cluster import KMeans
+``from sklearn.cluster import KMeans``
 
-kmeans = KMeans(n_clusters=3, random_state=42)
-kmeans.fit(X)
+``kmeans = KMeans(n_clusters=3, random_state=42)``
+``kmeans.fit(X)``
 
-labels = kmeans.labels_
-```
+``labels = kmeans.labels_``
 
 تستخدم خوارزميات التجميع كثيراً في تحليل العملاء وتقسيم المستخدمين وتحليل السلوك.
 
