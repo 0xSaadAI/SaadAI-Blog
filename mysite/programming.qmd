@@ -113,3 +113,16 @@ title: "Programming posts"
 <br>
 
 <img src="../blog/images/gnu-and-linux.png" width="300px" alt="image" />
+
+<hr>
+
+9. [مكتبة سايكت ليرن : الجزء 1](blog/post27.qmd)
+
+<br>
+
+هي مكتبة تعلم آلة مفتوحة المصدر شهيرة جداً ما إن لم تكن الأشهر , تم تقديمها في معرض جوجل الصيفي للبرمجة عام 2007 م .
+[..إكمال القراءة](blog/post27.qmd)
+
+<br>
+
+<img src="../blog/images/sklearn.png" width="300px" alt="image" />
