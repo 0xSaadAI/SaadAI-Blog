@@ -1,5 +1,7 @@
 # SaadAI-Blog
 
+<strong>[Original Repository](https://github.com/Saad711T/SaadAI-Blog)</strong>
+
 [Cranl.com Version](https://saadai-blog-kzx8bx.cranl.net/)
 
 If your anti-virus say the above link is malware enter this version :
