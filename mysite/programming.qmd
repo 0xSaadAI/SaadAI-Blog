@@ -103,7 +103,49 @@ title: "Programming posts"
 
 <hr>
 
-8. [لمحة عن نظام تشغيل جنو/لينكس](blog/post26.5.qmd)
+8.  [مستودعات البيانات](blog/post26.6.qmd)
+
+<br>
+
+مستودع البيانات هو نظام لإدارة البيانات بشكل متقدم يختلف عن قواعد البيانات التقليدية
+[..إكمال القراءة](blog/post26.6.qmd)
+
+<br>
+
+<img src="../blog/images/my-dw.png" width="300px" alt="image" />
+
+<hr>
+
+9.  [معمارية الحاسبات](blog/post26.8.qmd)
+
+<br>
+
+هي البنية الرئيسية التي تصف مما يتكون جهاز الكمبيوتر وكيف يتصرف مع كل جزء ووظيفة كل جزء .
+[..إكمال القراءة](blog/post26.8.qmd)
+
+<br>
+
+<img src="../blog/images/operating-systems.png" width="300px" alt="image" />
+
+<hr>
+
+
+10.  [نظم التشغيل](blog/post26.7.qmd)
+
+<br>
+
+نظام التشغيل هو برنامج وسيط بين عتاد الجهاز ومستخدم الجهاز بالكمبيوتر , بدون نظام التشغيل فأن جهاز الكمبيوتر بلا فائدة .
+[..إكمال القراءة](blog/post26.7.qmd)
+
+<br>
+
+<img src="../blog/images/operating-systems.png" width="300px" alt="image" />
+
+<hr>
+
+
+
+11. [لمحة عن نظام تشغيل جنو/لينكس](blog/post26.5.qmd)
 
 <br>
 
@@ -116,7 +158,7 @@ title: "Programming posts"
 
 <hr>
 
-9. [مكتبة سايكت ليرن : الجزء 1](blog/post27.qmd)
+12. [مكتبة سايكت ليرن : الجزء 1](blog/post27.qmd)
 
 <br>
 
@@ -129,7 +171,7 @@ title: "Programming posts"
 
 <hr>
 
-10. [مكتبة سايكت ليرن : الجزء 2](blog/post28.qmd)
+13. [مكتبة سايكت ليرن : الجزء 2](blog/post28.qmd)
 
 <br>
 
@@ -138,7 +180,24 @@ title: "Programming posts"
 
 <hr>
 
-11.  [تطوير الويب](blog/post35.qmd)
+14.  [شبكات الحاسب](blog/post35.5.qmd)
+
+<br>
+
+الشبكة الحاسوبية هي عدد من الأجهزة مربوطة في بعضها البعض .
+[..إكمال القراءة](blog/post35.5.qmd)
+
+<br>
+
+<img src="../blog/images/router1.png" width="300px" alt="image" />
+
+
+
+
+<hr>
+
+
+15.  [تطوير الويب](blog/post35.qmd)
 
 <br>
 
@@ -148,3 +207,30 @@ title: "Programming posts"
 <br>
 
 <img src="../blog/images/internet.png" width="300px" alt="image" />
+
+<hr>
+
+16.    [مكتبة باي تورش : الجزء 1](blog/post40.qmd)
+
+<br>
+
+مكتبة باي تورش هي مكتبة تعلم آلة وتعلم عميق مفتوحة المصدر تم انشائها من قبل شركة ميتا للغة بايثون كوريثة لمكتبة تورش في لغة سي بلس بلس , وحالياً يتم تقديم الدعم لها من قبل مؤسسة لينكس .
+[..إكمال القراءة](blog/post40.qmd)
+
+<br>
+
+<img src="../blog/images/pytorch.png" width="300px" alt="image" />
+
+<hr>
+
+17.    [مكتبة باي تورش : الجزء 2](blog/post41.qmd)
+
+<br>
+
+نستكمل ما بدأناه في المقالة السابقة وسنشرح في هذه المقالة الأوامر الأخرى الموجودة في المكتبة وإستخداماتها المتقدمة.
+[..إكمال القراءة](blog/post41.qmd)
+
+<br>
+
+<img src="../blog/images/deep-neural-network.jpg" width="300px" alt="image" />
+
