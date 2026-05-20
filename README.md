@@ -1,7 +1,11 @@
 # SaadAI-Blog
 
 <p  align="center" text-size="larger">
-<strong>[Original Repository](https://github.com/Saad711T/SaadAI-Blog)</strong>
+<a href="https://github.com/Saad711T/SaadAI-Blog">
+<strong>
+  Original Reposiroty
+</strong>
+</a>
 </p>
 
 [Cranl.com Version](https://saadai-blog-kzx8bx.cranl.net/)
