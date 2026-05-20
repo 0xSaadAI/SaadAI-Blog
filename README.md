@@ -3,7 +3,7 @@
 <p  align="center" text-size="larger">
 <a href="https://github.com/Saad711T/SaadAI-Blog">
 <strong>
-  Original Reposiroty
+  Original Repository
 </strong>
 </a>
 </p>
