@@ -1,6 +1,6 @@
 # SaadAI-Blog
 
-<strong align="center" text-size="40px">[Original Repository](https://github.com/Saad711T/SaadAI-Blog)</strong>
+<strong align="center" text-size="larger">[Original Repository](https://github.com/Saad711T/SaadAI-Blog)</strong>
 
 [Cranl.com Version](https://saadai-blog-kzx8bx.cranl.net/)
 
